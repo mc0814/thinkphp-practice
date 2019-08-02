@@ -24,6 +24,11 @@ class Login extends Controller
     {
         echo 'reeeeeeeee';
     }
+    
+    public function test3()
+    {
+        echo '123123123123';
+    }
 
     public function login()
     {
