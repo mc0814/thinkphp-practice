@@ -30,6 +30,11 @@ class Login extends Controller
         echo '123123123123';
     }
 
+    public function test2()
+    {
+        echo '123123';
+    }
+
     public function login()
     {
         $username=input('username');
